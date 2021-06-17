@@ -1,6 +1,5 @@
 package com.revature.model;
 
-// test
 public class Employee {
 	
 	private int id;
